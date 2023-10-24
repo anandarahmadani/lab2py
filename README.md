@@ -9,9 +9,9 @@ Print ("Hello")
 ![Alt text](<latian 1-1.png>)
 
 * Menampilkan tulisan “Saya sedang belajar python” dilayar
-
+```
 Print ("Saya sedang belajar python")
-
+```
 ## maka outputnya
 ![Alt text](image-2.png)
 
