@@ -30,7 +30,7 @@ print("Variable b=",b )
 print("Hasil penjumlahan a+b=",a + b )
 ```
 ## maka outputnya
-![Alt text](<latian 2.png>)
+![Alt text](image-2.png)
 
 
 # Latihan 3
