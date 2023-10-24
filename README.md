@@ -13,7 +13,7 @@ Print ("Hello")
 Print ("Saya sedang belajar python")
 ```
 ## maka outputnya
-![Alt text](image-2.png)
+![Alt text](image-1.png)
 
 # Latihan 2
 * Menjumlahkan dua buah bilangan menggunakan variabel a dan b.
